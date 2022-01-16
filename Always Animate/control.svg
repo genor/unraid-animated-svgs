@@ -7,7 +7,7 @@
   </g>
   <g id="control_top" transform="matrix(4 0 0 4 -825.429 -2258.566)">
     <g id="control_group">
-      <path id="line1" d="M249.98 730.88h-6.29c-2.7 0-4.92-2.21-4.92-4.92V595.57c0-2.7 2.21-4.92 4.92-4.92h6.29c2.7 0 4.92 2.21 4.92 4.92v130.39a4.93 4.93 0 01-4.92 4.92z" fill-opacity="0" stroke="none" stroke-width="7" stroke-miterlimit="10"/>
+      <path id="line1" d="M249.98 730.88h-6.29c-2.7 0-4.92-2.21-4.92-4.92V595.57c0-2.7 2.21-4.92 4.92-4.92h6.29c2.7 0 4.92 2.21 4.92 4.92v130.39a4.93 4.93 0 01-4.92 4.92z" fill="#FFF" fill-opacity="0" stroke="none" stroke-width="7" stroke-miterlimit="10"/>
       <g id="button1_animation">
         <path id="button1" d="M257.23 650.09h-20.77c-6.24 0-11.34-5.1-11.34-11.34v-20.1c0-6.24 5.1-11.34 11.34-11.34h20.77c6.24 0 11.34 5.1 11.34 11.34v20.1c0 6.24-5.11 11.34-11.34 11.34z" fill="#FFF" stroke="none" stroke-width="1"/>
       </g>
